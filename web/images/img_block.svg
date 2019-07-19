@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>zoom-out</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Личный-кабинет-Администратора-Пользователи-design" transform="translate(-1698.000000, -540.000000)" fill-rule="nonzero" fill="#CBCBCB">
+            <g id="zoom-out" transform="translate(1698.000000, 540.000000)">
+                <path d="M30.9094608,26.7757717 C32.8564402,24.0105475 34,20.6388886 34,17 C34,7.61118294 26.3888171,0 17,0 C7.61118294,0 0,7.61118294 0,17 C0,26.3888171 7.61118294,34 17,34 C20.6388886,34 24.0105942,32.8564402 26.7757717,30.9094608 C28.3799917,29.7799312 29.7799312,28.379945 30.9094608,26.7757717 Z M8.57015131,19.326685 L8.57015131,14.6499312 L13.7847318,14.6499312 L18.7836204,14.6499312 L25.4532325,14.6499312 L25.4532325,19.326685 L23.4603741,19.326685 L15.1930426,19.326685 L8.57015131,19.326685 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
